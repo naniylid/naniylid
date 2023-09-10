@@ -54,7 +54,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
      <a href="https://t.me/naniylid" target="_blank">
-      <img src="https://github.com/naniylid/naniylid/assets/116672516/8efe2309-85cf-4ee1-b6bb-a8dce5d8154c" width="40" height="40" alt="TG Badge"/>
+      <img src="icons/free-icon-telegram-2111646.png" width="40" height="40" alt="TG Badge"/>
     </a>
   </div>
   
