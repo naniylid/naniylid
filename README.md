@@ -41,6 +41,14 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
  https://loftschool.com/diploma/RH1670906032/ru/pdf</li>
  <li>freeCodeCamp: Responsive Web Design<br>
  https://www.freecodecamp.org/certification/naniylid/responsive-web-design</li>
+</ul>
+
+---
+### 👩‍💻 Other:
+
+<ul>
+  <li>Codepen.io<br>
+https://codepen.io/naniylid</li>
   <li>Codewars<br>
  https://www.codewars.com/users/naniylid</li>
    <li>LeetCode<br>
