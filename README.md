@@ -3,8 +3,7 @@
 ---
 
 ### About me:
-I am a frontend developer, I create user interfaces for websites. In my work I use HTML, CSS, JavaScript, React.js.
-During my studies I have made projects using Yandex Maps API and DOM, created several games in JavaScript.   
+I am a frontend developer, I create user interfaces for websites. In my work I use HTML, CSS, JavaScript, TypeScript, React.js, Redux.  
 What I like to do in my free time? Walking with my dog, listening to The Weeknd, going to dances and spending time with close people.
 <p align="center">
  <img width="600" src="icons/github-snake.svg" alt="snake"/>
