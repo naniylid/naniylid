@@ -1,5 +1,6 @@
-### Hi, my name's Nadia. Nice to see you on my page 🥰
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+developer)](https://git.io/typing-svg)
+<p align="center"><img width="40%" alt="Hello, I'm Nadia" src="./header.svg" /></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F5DE2&random=false&width=435&lines=Frontend+developer)](https://git.io/typing-svg)
 ---
 
 ### About me:
@@ -15,24 +16,14 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
  
-</div>
-
----
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -49,14 +40,15 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
 ---
 ### 👩‍💻 Other:
 
-<ul>
-  <li>Codepen.io<br>
-https://codepen.io/naniylid</li>
-  <li>Codewars<br>
- https://www.codewars.com/users/naniylid</li>
-   <li>LeetCode<br>
- https://leetcode.com/naniylid/</li>
-</ul>
+  <div>
+   <a href="https://codepen.io/naniylid" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8PTkrYMRBxOdp-d0lYWa4U3uLE_M_aJxQuHbqKCAuQ&s" title="codepen" alt="codepen" width="40" height="40"/>
+    </a>
+
+   <a href="https://leetcode.com/naniylid" target="_blank">
+  <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" title="LeetCode" alt="LeetCode" width="40" height="40"/>
+    </a>
+</div>
 
 ---
 ### 🤝 Social media:
