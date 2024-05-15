@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" alt="Hello, I'm Nadia" src="./header.svg" /></p>
+<p align="center"><img width="300px" alt="Hello, I'm Nadia" src="./header.svg" /></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F5DE2&random=false&width=435&lines=Frontend+developer)](https://git.io/typing-svg)
 ---
