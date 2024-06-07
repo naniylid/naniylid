@@ -37,18 +37,6 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
  https://www.freecodecamp.org/certification/naniylid/responsive-web-design</li>
 </ul>
 
----
-### 👩‍💻 Other:
-
-  <div>
-   <a href="https://codepen.io/naniylid" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8PTkrYMRBxOdp-d0lYWa4U3uLE_M_aJxQuHbqKCAuQ&s" title="codepen" alt="codepen" width="40" height="40"/>
-    </a>
-
-   <a href="https://leetcode.com/naniylid" target="_blank">
-  <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" title="LeetCode" alt="LeetCode" width="40" height="40"/>
-    </a>
-</div>
 
 ---
 ### 🤝 Social media:
@@ -62,6 +50,13 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
     </a>
      <a href="https://t.me/naniylid" target="_blank">
       <img src="icons/free-icon-telegram-2111646.png" width="40" height="40" alt="TG Badge"/>
+    </a>
+      <a href="https://codepen.io/naniylid" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8PTkrYMRBxOdp-d0lYWa4U3uLE_M_aJxQuHbqKCAuQ&s" title="codepen" alt="codepen" width="40" height="40"/>
+    </a>
+
+   <a href="https://leetcode.com/naniylid" target="_blank">
+  <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" title="LeetCode" alt="LeetCode" width="40" height="40"/>
     </a>
   </div>
   
