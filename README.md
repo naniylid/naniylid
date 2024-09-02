@@ -12,19 +12,7 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
 
 ---
 ### 💻 Technologies:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
- 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,git,webpack,vite,nodejs,figma )](https://skillicons.dev)
 
 ---
 ### 📚 Education and certifications:
@@ -35,7 +23,7 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
  https://loftschool.com/diploma/RH1670906032/ru/pdf</li>
  <li>freeCodeCamp: Responsive Web Design<br>
  https://www.freecodecamp.org/certification/naniylid/responsive-web-design</li>
-</ul>
+</ul> 
 
 
 ---
@@ -43,17 +31,17 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/naniylid" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="https://github.com/user-attachments/assets/7835447e-af87-4b0b-af17-9f8d081101a0" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://vk.com/dobroipositive" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://github.com/user-attachments/assets/f94a71d3-c085-4d22-827b-691d7292f850" width="40" height="40" alt="VK Badge"/>
     </a>
      <a href="https://t.me/naniylid" target="_blank">
-      <img src="icons/free-icon-telegram-2111646.png" width="40" height="40" alt="TG Badge"/>
+      <img src="https://github.com/user-attachments/assets/1907307f-9e41-43da-9a0a-05bc1a232443" width="40" height="40" alt="TG Badge"/>
     </a>
   </div>
   
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naniylid&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naniylid&layout=compact&theme=radical) 
 
