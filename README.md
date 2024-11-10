@@ -43,5 +43,7 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
   
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naniylid&layout=compact&theme=radical) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naniylid&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naniylid&theme=dark)
+
 
