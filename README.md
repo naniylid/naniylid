@@ -12,7 +12,7 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
 
 ---
 ### 💻 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,git,webpack,vite,nodejs,figma )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,redux,git,webpack,vite,nodejs,figma )](https://skillicons.dev)
 
 ---
 ### 📚 Education and certifications:
