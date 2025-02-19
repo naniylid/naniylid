@@ -17,29 +17,13 @@ What I like to do in my free time? Walking with my dog, listening to The Weeknd,
 ---
 ### 📚 Education and certifications:
 <ul>
- <li>St. Petersburg State University of Economics <br>
- 2018-2022</li>
+ <li>St. Petersburg State University of Economics</li>
  <li>LoftSchool: Comprehensive JavaScript training <br>
  https://loftschool.com/diploma/RH1670906032/ru/pdf</li>
  <li>freeCodeCamp: Responsive Web Design<br>
  https://www.freecodecamp.org/certification/naniylid/responsive-web-design</li>
 </ul> 
 
-
----
-### 🤝 Social media:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/naniylid" target="_blank">
-      <img src="https://github.com/user-attachments/assets/7835447e-af87-4b0b-af17-9f8d081101a0" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://vk.com/dobroipositive" target="_blank">
-      <img src="https://github.com/user-attachments/assets/f94a71d3-c085-4d22-827b-691d7292f850" width="40" height="40" alt="VK Badge"/>
-    </a>
-     <a href="https://t.me/naniylid" target="_blank">
-      <img src="https://github.com/user-attachments/assets/1907307f-9e41-43da-9a0a-05bc1a232443" width="40" height="40" alt="TG Badge"/>
-    </a>
-  </div>
   
 ---
 
